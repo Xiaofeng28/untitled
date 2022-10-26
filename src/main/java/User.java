@@ -3,5 +3,5 @@ public class User {
     public User() {
         
     }
-    public static String maring = "qwert";
+    public static String shiBi = "qwert";
 }
